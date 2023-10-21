@@ -83,57 +83,6 @@
       "quickSearch": 1
     },
     {
-      "key": "A8",
-      "name": "🎀A8┃采集",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://aaa.a8ys.xyz/ruifenglb_api.php/v1.vod"},
-    {
-      "key": "天堂资源",
-      "name": "🎀天堂┃采集",
-      "type": 1,
-      "api": "http://vipmv.cc/api.php/provide/vod/",
-      "playUrl": "https://yun.ckmov.com/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "电影",
-        "连续剧",
-        "综艺",
-        "动漫",
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "哔哩哔哩"
-      ]
-    },
-    {
-      "key": "秒看",
-      "name": "🎀秒看┃采集",
-      "type": 1,
-      "api": "https://mkzy.vip/api.php/provide/vod",
-      "playUrl": "https://player.3412.net.cn/?url=",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "电影",
-        "电视剧",
-        "综艺",
-        "动漫"
-      ]
-    },
-    {
       "key": "闪电资源",
       "name": "🎀闪电┃采集",
       "type": 1,
@@ -265,20 +214,6 @@
       ]
     },
     {
-      "key": "FF9资源",
-      "name": "🎀FF9┃采集",
-      "type": 1,
-      "api": "https://www.ff9.top/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "国产剧",
-        "战争片",
-        "综艺",
-        "动漫"
-      ]
-    },
-    {
       "key": "新浪资源",
       "name": "🎀新浪┃采集",
       "type": 1,
@@ -307,33 +242,6 @@
         "喜剧片"
       ]
     },    
-    {
-      "key": "卧龙",
-      "name": "️🎀卧龙┃采集",
-      "type": 1,
-      "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
-      "playUrl": "https://yun.ckmov.com/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "记录片",
-        "电影解说",
-        "足球",
-        "篮球",
-        "国产剧",
-        "综艺",
-        "影片库",
-        "动漫"
-      ]
-    },
     {
 	    "key": "csp_xml_暴风",
 		"name": "🎀暴风┃采集",
@@ -518,14 +426,6 @@
              "searchable": 1,
              "quickSearch": 1
         },
-	{
-			"key": "淘片资源",
-			"name": "🎀淘片┃采集",
-			"type": 1,
-			"api": "https://taopianapi.com/cjapi/mc/vod/json.html",
-			"searchable": 1,
-			"quickSearch": 1
-	},
 	{
 			"key": "csp_xml_ikun",
 			"name": "🎀爱坤┃采集",
@@ -886,16 +786,6 @@
       "quickSearch": 1
     },
     {
-      "key": "csp_appysv2_天天视频",
-      "name": "🎀天天┃采集",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://app.qianju.cc/api.php/v1.vod"
-    },
-    {
       "key": "金鹰资源",
       "name": "🎀金鹰┃采集",
       "type": 1,
@@ -927,15 +817,6 @@
       "name": "🎀速播┃采集",
       "type": 1,
       "api": "https://subocaiji.com/api.php/provide/vod/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "映迷",
-      "name": "🎀映迷┃采集",
-      "type": 1,
-      "api": "https://www.inmi.app/api.php/provide/vod/",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1
@@ -983,17 +864,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "xgapp",
-      "name": "🎀西瓜┃采集",
-      "type": 3,
-      "playerType": 2,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
     },
     {
       "key": "韩剧资源",
