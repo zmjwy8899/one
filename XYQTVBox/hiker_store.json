@@ -2,7 +2,7 @@
     "storeHouse": [
         {
             "sourceName": "☣️酷玩仓库【香雅情】☣️",
-            "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/zmjwy8899/one/main/XYQTVBox/hiker_offline.json"
+            "sourceUrl": "./XYQTVBox/hiker_offline.json"
         }
     ]
 }
