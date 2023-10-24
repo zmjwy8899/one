@@ -12,11 +12,11 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
-  "warningText": "2023-08-24更新接口，每次打开记得长按主页刷新！",
+  "warningText": "2023-10-26更新接口，每次打开记得长按主页刷新！",
   "sites": [
     {
       "key": "搜索┃豆瓣js",
-      "name": "📛TH┃挺好专享【2023-08-24更新接口，长按主页刷新】",
+      "name": "📛TH┃挺好专享【2023-10-26更新接口，长按主页刷新】",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/douban.js"
