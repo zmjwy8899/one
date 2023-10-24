@@ -12,11 +12,11 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
-  "warningText": "2023-08-24更新接口，每次打开记得长按主页刷新！",
+  "warningText": "2023-10-26更新接口，每次打开记得长按主页刷新！",
   "sites": [
     {
       "key": "搜索┃豆瓣js",
-      "name": "📛TH┃挺好专享【2023-08-24更新接口，长按主页刷新】",
+      "name": "📛TH┃挺好专享【2023-10-26更新接口，长按主页刷新】",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/douban.js"
@@ -51,17 +51,6 @@
       "jar": "./lib/小暴脾气8.jar"
     },
     {
-      "key": "csp_appys_影探",
-      "name": "📛TH┃影探2K",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://ytcms.lfytyl.com/api.php/app/",
-      "jar": "./lib/小暴脾气8.jar"
-    },
-    {
       "key": "csp_appysv2_阿里影视",
       "name": "📛TH┃阿里萝卜",
       "type": 3,
@@ -80,17 +69,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "jar": "./lib/fan711.jar"
-    },
-    {
-      "key": "csp_fantuan",
-      "name": "📛TH┃饭团影视",
-      "type": 3,
-      "api": "csp_Fantuan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.fantuan3.com",
-      "jar": "./lib/box.jar;md5;0A4B198EEC040AB9088F865A169BD04B"
     },
     {
       "key": "YQK",
