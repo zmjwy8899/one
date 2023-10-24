@@ -811,16 +811,6 @@
       "searchable": 0
     },
     {
-      "key": "12",
-      "name": "📛微信公众号📛",
-      "api": "1",
-      "type": 3,
-      "filterable": 0,
-      "quickSearch": 0,
-      "searchable": 0
-    },
-    {
-      "key": "13",
       "name": "📛挺好分享📛",
       "api": "1",
       "type": 3,
