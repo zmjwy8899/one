@@ -241,6 +241,7 @@ CCTV17,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225708/index.m3u8
 
 
 🎡重庆有线👉全网,#genre#
+
 CCTV1综合,http://dp.sxtv.top:88/ljes/cqyx.php?id=cctv1
 CCTV2财经,http://dp.sxtv.top:88/ljes/cqyx.php?id=cctv2
 CCTV3综艺,http://dp.sxtv.top:88/ljes/cqyx.php?id=cctv3
@@ -367,7 +368,6 @@ CHC家庭影院,http://dp.sxtv.top:88/ljes/cqyx.php?id=chcjt
 摄影频道,http://dp.sxtv.top:88/ljes/cqyx.php?id=sypd
 求索纪录,http://dp.sxtv.top:88/ljes/cqyx.php?id=qsjl
 重温经典,http://dp.sxtv.top:88/ljes/cqyx.php?id=cwjd
-
 
 🎡龙江移动IPV6👉全网,#genre#
 CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
